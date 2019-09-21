@@ -1,6 +1,8 @@
 # init
 To begin with everything, you'd need a Github account to start with, that is the website you're currently viewing these instructions on. 
 
+**Follow the rules stated below before creating the pull request (Otherwise it will not be accepted)**
+
 * Create an account on [Github](https://github.com/join).
 * Follow-up and learn the basics from [Github Guides](https://github.com/join).
 * If new to githhub, learn more about it in this [video](https://www.youtube.com/watch?v=0fKg7e37bQE).
